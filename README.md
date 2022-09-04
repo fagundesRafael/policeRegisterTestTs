@@ -2,7 +2,8 @@
 Testing types with Typescript.
 
 dont forget to: <h3> npm install --save-dev typescript </h3>
-
+<br>
+run index.html
 Used tools:
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
